@@ -1,0 +1,11 @@
+C:\Users\corag\source\repos\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\corag\source\repos\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\corag\source\repos\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.Form1.resources
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.Properties.Resources.resources
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\corag\source\repos\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
